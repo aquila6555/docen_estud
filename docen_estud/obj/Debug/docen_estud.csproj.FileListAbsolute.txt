@@ -1,0 +1,13 @@
+c:\users\jd\documents\visual studio 2015\Projects\docen_estud\docen_estud\bin\Debug\docen_estud.exe.config
+c:\users\jd\documents\visual studio 2015\Projects\docen_estud\docen_estud\bin\Debug\docen_estud.exe
+c:\users\jd\documents\visual studio 2015\Projects\docen_estud\docen_estud\bin\Debug\docen_estud.pdb
+c:\users\jd\documents\visual studio 2015\Projects\docen_estud\docen_estud\bin\Debug\DevComponents.DotNetBar2.dll
+c:\users\jd\documents\visual studio 2015\Projects\docen_estud\docen_estud\bin\Debug\DevComponents.DotNetBar2.xml
+c:\users\jd\documents\visual studio 2015\Projects\docen_estud\docen_estud\obj\Debug\docen_estud.csprojResolveAssemblyReference.cache
+c:\users\jd\documents\visual studio 2015\Projects\docen_estud\docen_estud\obj\Debug\docen_estud.Form1.resources
+c:\users\jd\documents\visual studio 2015\Projects\docen_estud\docen_estud\obj\Debug\docen_estud.Form2.resources
+c:\users\jd\documents\visual studio 2015\Projects\docen_estud\docen_estud\obj\Debug\docen_estud.Form3.resources
+c:\users\jd\documents\visual studio 2015\Projects\docen_estud\docen_estud\obj\Debug\docen_estud.Properties.Resources.resources
+c:\users\jd\documents\visual studio 2015\Projects\docen_estud\docen_estud\obj\Debug\docen_estud.csproj.GenerateResource.Cache
+c:\users\jd\documents\visual studio 2015\Projects\docen_estud\docen_estud\obj\Debug\docen_estud.exe
+c:\users\jd\documents\visual studio 2015\Projects\docen_estud\docen_estud\obj\Debug\docen_estud.pdb
